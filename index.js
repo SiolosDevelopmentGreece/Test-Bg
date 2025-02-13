@@ -37,7 +37,7 @@ app.listen(port, () => {
   console.log('\x1b[36m[ SERVER ]\x1b[0m', '\x1b[32m SH : http://localhost:' + port + ' ✅\x1b[0m');
 });
 
-const statusMessages = ["Playing Test Bot2", "Playing Test Bot2"];
+const statusMessages = ["Playing Baily Service", "Playing Baily Service"];
 let currentIndex = 0;
 
 async function login() {
